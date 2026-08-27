@@ -8,7 +8,7 @@ An interactive business analytics project exploring sales trends, top-performing
    
 First step, reveiw the dataset to understand it's structure, the different variables, and What information it contains. This helps to identify key fields such as product categories, sales, profit, and regional data that would be needed for the analysis
 
-The datasert was then cleaned and organized using Microsft Excel. Checked foe du[licates and removed them to avoid incorrect results. Also checked each column for missing values and corrected them where needed to maintain data quality and consistency. In addition , Power BI was used for data visualization to present the finding through interactive charts and dashboards, making it easier to identify trends and patterns
+The dataset was then cleaned and organized using Microsft Excel. Checked foe duplicates and removed them to avoid incorrect results. Also checked each column for missing values and corrected them where needed to maintain data quality and consistency. In addition , Power BI was used for data visualization to present the finding through interactive charts and dashboards, making it easier to identify trends and patterns
 
 These stops were inportant to ensure the dataset was complete, accurate, and ready for meaningful business analysis 
 
