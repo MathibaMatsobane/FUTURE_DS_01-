@@ -27,7 +27,8 @@ Prioritize Technology in the East Regiom. Allocate more iventory and marketing b
 Conduct a review of the pricing and discount structure for furniture in the east region to eliminate current losses and improve margins.
 Expand Office Supplies in the west. Leverage the strong performance of office supplies in the west region as a secondary growth oppportunity.
 
-6. conclusion
+6. conclusion:
+
 The analysis of the dataset from 2014 to 2017 provide key insights into product performance, sales trend, and regional profitability. It is clear that Technology is the most valuable category, while sales performance varies significantly by year and region. the major drop in 2017 and loss on furniture in the East are areas that need urgent business attention 
 
 
